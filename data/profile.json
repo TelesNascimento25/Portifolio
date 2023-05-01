@@ -33,7 +33,7 @@
         }
         {
           "name": "Spring",
-          "logo": "https://github.dev/TelesNascimento25/Portifolio/blob/4820b45c82bf60a10f59169ad1a07f8d02dbb8f3/data/imgs/angular.png"
+          "logo": "https://github.dev/TelesNascimento25/Portifolio/blob/4820b45c82bf60a10f59169ad1a07f8d02dbb8f3/data/imgs/spring.png"
         }
       ],
       "softSkills": [
@@ -47,35 +47,56 @@
     },
     "languages": [
       "Português BR",
-      "Inglês (Fluente)",
+      "Inglês (Fluente)"
     ],
     "portfolio": [
+      
       {
-        "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-        "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+        "name": "Projeto Criando uma Pokedéx",
+        "url": "https://github.com/TelesNascimento25/Pokedex",
         "github": true
       },
       {
-        "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-        "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+        "name": "Projeto criando o site do HBOMAX",
+        "url": "https://github.com/TelesNascimento25/HBOMAX",
+        "github": true
+      },
+      {
+        "name": "Projeto Criando o site do Discord",
+        "url": "https://github.com/TelesNascimento25/CSS-PROJETO-DISCORD",
+        "github": true
+      },
+      {
+        "name": "Projeto para a Empresa que eu Trabalho, Landing Page",
+        "url": "https://github.com/TelesNascimento25/CSSProjeto1",
+        "github": true
+      },
+      {
+        "name": "Projeto Clone do Youtube",
+        "url": "https://github.com/TelesNascimento25/CSS-PROJETO-YOUTUBE",
         "github": true
       }
     ],
     "professionalExperience": [
       {
-        "name": "Arquiteto de software / S3 BANK",
+        "name": "Analista de Dados | Backoffice / Aplix Consultoria de Investimentos",
         "period": "2022 - até o momento",
         "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
       },
       {
-        "name": "Software Engineering Lead / DIO",
-        "period": "2021 - 2022",
+        "name": "Analista de Seo / Mobills",
+        "period": "2022 - 2022",
         "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
       },
       {
-        "name": "CEO / Brain Machine",
-        "period": "2016 - 2021",
-        "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+        "name": "Gerente de Contas Pessoa Física - Jurídica / Santander",
+        "period": "2020 - 2022",
+        "description": "Foi um prazer poder contribuir com a situação financeira de tantos brasileiros."
+      }
+      {
+        "name": "Daily Banker / XP Investimentos",
+        "period": "2018 - 2020",
+        "description": "Muito bom poder contribuir com os investimentos e a educação financeira de tantas pessoas."
       }
     ]
   }
